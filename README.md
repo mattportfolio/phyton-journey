@@ -8,7 +8,7 @@
 This repository is where I store all my scripsts and projects as I learn Python. My goal is to build something every day for the next 10 years!
 
 ### 🚀 What's Inside?
-- 'rock_paper_scisor.py': My not so first (I did a few Phython projects before, not published tho) 
+- 'basic_calculator and basic_calculator_v2' - My first published projects!
 - 'next_project.py' : Coming soon!
 
 ### 🛠️ Learning Resources
