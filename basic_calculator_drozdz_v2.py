@@ -1,4 +1,4 @@
-#Mateusz Drozdz, made on Phyton Online IDE.
+#Mateusz Drozdz, made on Python Online IDE.
 
 def add(a, b):
     return a + b
