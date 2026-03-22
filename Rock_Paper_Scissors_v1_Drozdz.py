@@ -9,7 +9,7 @@ while running:
     computer = random.choice(options)
 
     while player not in options:
-        player = input("Enter a choice (rock, paper, scissors): ")
+        player = input("Choose (rock, paper, scissors): ")
 
     print(f"Player: {player}")
     print(f"Computer: {computer}")
@@ -23,9 +23,8 @@ while running:
     elif player == "scissors" and computer == "paper":
         print("You win!")
     else:
-        print("You lose!")
+        print("You lost!")
 
     if not input("Play again? (y/n): ").lower() == "y":
         running = False
-
-print("Thanks for playing")
+        print("Thanks for playing")
